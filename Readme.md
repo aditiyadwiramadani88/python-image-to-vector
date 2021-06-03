@@ -1,10 +1,10 @@
-#Requirement
+# Requirement
 
 
-###Pillow
-###numpy
+### Pillow
+### numpy
 
 
-#Run
+# Run
 
-##python3 main.py image.jpg
+## python3 main.py image.jpg
